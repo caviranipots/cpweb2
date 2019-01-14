@@ -6,6 +6,6 @@ theme = "seminyak"
 [params]
   theme_color = "#fcfbeb"
   color_palette = "yellow"
-  background_image_url = "images/cp2019_c.png"
+  background_image_url = "images/ortonovo_1.jpg"
   referrer_policy = "same-origin"
   google_fonts = "Oswald|Raleway"

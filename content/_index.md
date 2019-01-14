@@ -4,8 +4,8 @@ description = ""
 image_credits = ''''''
 +++
 
-[Italiano](https://epic-sammet-73df5f.netlify.com/it/)
+[Italiano](https://cavirani-pots.netlify.com/it/)
 
-[Nederlands](https://epic-sammet-73df5f.netlify.com/nl/)
+[Nederlands](https://cavirani-pots.netlify.com/nl/)
 
-[English](https://epic-sammet-73df5f.netlify.com/en/)
+[English](https://cavirani-pots.netlify.com/en/)
